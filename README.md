@@ -43,7 +43,7 @@ The Lambda function processes requests and returns a JSON response through an AP
 
 ## API Endpoint
 
-https://n5ryg64989.execute-api.eu-north-1.amazonaws.com/default/hello-lambda
+ https://n5ryg64989.execute-api.eu-north-1.amazonaws.com/default/hello-Lambda
 
 ## Author
 
